@@ -1,0 +1,34 @@
+[
+  {
+    "TaxRateId": "13e8aa5a-3c22-41f9-9a7a-da7a416daa6e",
+    "RateName": "2025 FY",
+    "Percentage": 0.50,
+    "ThresholdMin": null,
+    "ThresholdMax": null,
+    "IsActive": false
+  },
+  {
+    "TaxRateId": "11d172e9-fc07-473f-83c9-77ae5544a3f2",
+    "RateName": "2020 FY",
+    "Percentage": 0.10,
+    "ThresholdMin": null,
+    "ThresholdMax": null,
+    "IsActive": true
+  },
+  {
+    "TaxRateId": "c781f26d-cc30-4e44-9c9c-3c221e163274",
+    "RateName": "2027 FY",
+    "Percentage": 0.80,
+    "ThresholdMin": null,
+    "ThresholdMax": null,
+    "IsActive": false
+  },
+  {
+    "TaxRateId": "11b0d15b-0305-4237-85bb-46d4d9d20980",
+    "RateName": "covid tax rate",
+    "Percentage": 0.50,
+    "ThresholdMin": null,
+    "ThresholdMax": null,
+    "IsActive": false
+  }
+]

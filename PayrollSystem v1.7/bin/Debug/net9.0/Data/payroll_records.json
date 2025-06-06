@@ -1,0 +1,566 @@
+[
+  {
+    "RecordId": "526928cc-6ae0-4c35-8c05-5da3924b2850",
+    "EmployeeId": 101,
+    "PayPeriodStart": "2025-02-01T00:00:00",
+    "PayPeriodEnd": "2025-02-28T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 1000,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 1000,
+    "TotalDeductions": 0,
+    "NetPay": 1000
+  },
+  {
+    "RecordId": "377eb03e-0aa9-43fe-b10d-a0ae005f67ff",
+    "EmployeeId": 102,
+    "PayPeriodStart": "2025-02-01T00:00:00",
+    "PayPeriodEnd": "2025-02-28T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 1200,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 1200,
+    "TotalDeductions": 0,
+    "NetPay": 1200
+  },
+  {
+    "RecordId": "fa3651b3-2d85-4592-bad2-78434eaafae9",
+    "EmployeeId": 103,
+    "PayPeriodStart": "2025-02-01T00:00:00",
+    "PayPeriodEnd": "2025-02-28T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 2000,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 2000,
+    "TotalDeductions": 0,
+    "NetPay": 2000
+  },
+  {
+    "RecordId": "7bb02e67-4f9d-4eda-b73c-ab1235224ab3",
+    "EmployeeId": 104,
+    "PayPeriodStart": "2025-02-01T00:00:00",
+    "PayPeriodEnd": "2025-02-28T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 3200,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 3200,
+    "TotalDeductions": 0,
+    "NetPay": 3200
+  },
+  {
+    "RecordId": "cd9989eb-da23-4c80-8b11-1e805ba07a2a",
+    "EmployeeId": 105,
+    "PayPeriodStart": "2025-02-01T00:00:00",
+    "PayPeriodEnd": "2025-02-28T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 4000,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 4000,
+    "TotalDeductions": 0,
+    "NetPay": 4000
+  },
+  {
+    "RecordId": "233b3ab9-b3a0-4265-8e9d-607809c0c50f",
+    "EmployeeId": 101,
+    "PayPeriodStart": "2005-05-05T00:00:00",
+    "PayPeriodEnd": "2025-05-05T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 1000,
+    "Bonuses": [
+      {
+        "Description": "good job",
+        "Amount": 222
+      }
+    ],
+    "Deductions": [
+      {
+        "Description": "22",
+        "Amount": 2
+      }
+    ],
+    "GrossPay": 1222,
+    "TotalDeductions": 2,
+    "NetPay": 1220
+  },
+  {
+    "RecordId": "829e5fed-3fd8-4e76-bdf6-4c41a0e0889b",
+    "EmployeeId": 101,
+    "PayPeriodStart": "2025-01-01T00:00:00",
+    "PayPeriodEnd": "2025-01-31T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 1000,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 1000,
+    "TotalDeductions": 0,
+    "NetPay": 1000
+  },
+  {
+    "RecordId": "428bf736-c7fe-49fc-8721-81f4244ded33",
+    "EmployeeId": 102,
+    "PayPeriodStart": "2025-01-01T00:00:00",
+    "PayPeriodEnd": "2025-01-31T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 1200,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 1200,
+    "TotalDeductions": 0,
+    "NetPay": 1200
+  },
+  {
+    "RecordId": "52b12e0f-fca8-4cf6-8aca-6c46906d338d",
+    "EmployeeId": 103,
+    "PayPeriodStart": "2025-01-01T00:00:00",
+    "PayPeriodEnd": "2025-01-31T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 2000,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 2000,
+    "TotalDeductions": 0,
+    "NetPay": 2000
+  },
+  {
+    "RecordId": "7c4a27f6-6fde-46dc-bdc3-bd5ed9626cd7",
+    "EmployeeId": 104,
+    "PayPeriodStart": "2025-01-01T00:00:00",
+    "PayPeriodEnd": "2025-01-31T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 3200,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 3200,
+    "TotalDeductions": 0,
+    "NetPay": 3200
+  },
+  {
+    "RecordId": "fdb6df31-6d2f-479d-9761-5889ca2df686",
+    "EmployeeId": 105,
+    "PayPeriodStart": "2025-01-01T00:00:00",
+    "PayPeriodEnd": "2025-01-31T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 4000,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 4000,
+    "TotalDeductions": 0,
+    "NetPay": 4000
+  },
+  {
+    "RecordId": "a12a61bf-8431-404e-84af-b973cba735d0",
+    "EmployeeId": 101,
+    "PayPeriodStart": "2025-01-01T00:00:00",
+    "PayPeriodEnd": "2025-05-05T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 8000,
+    "Bonuses": [
+      {
+        "Description": "test",
+        "Amount": 69
+      }
+    ],
+    "Deductions": [
+      {
+        "Description": "nah",
+        "Amount": 69
+      }
+    ],
+    "GrossPay": 8069,
+    "TotalDeductions": 69,
+    "NetPay": 8000
+  },
+  {
+    "RecordId": "ccee5c57-15a6-4215-b88f-6e9e962dc578",
+    "EmployeeId": 101,
+    "PayPeriodStart": "2025-05-01T00:00:00",
+    "PayPeriodEnd": "2025-05-31T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 8000,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 8000,
+    "TotalDeductions": 0,
+    "NetPay": 8000
+  },
+  {
+    "RecordId": "00bb0f0f-5286-412e-af1f-ba7c449ca1f7",
+    "EmployeeId": 102,
+    "PayPeriodStart": "2025-05-01T00:00:00",
+    "PayPeriodEnd": "2025-05-31T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 1200,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 1200,
+    "TotalDeductions": 0,
+    "NetPay": 1200
+  },
+  {
+    "RecordId": "3cabca4a-c327-402c-a441-e6e97b7b959f",
+    "EmployeeId": 103,
+    "PayPeriodStart": "2025-05-01T00:00:00",
+    "PayPeriodEnd": "2025-05-31T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 2020,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 2020,
+    "TotalDeductions": 0,
+    "NetPay": 2020
+  },
+  {
+    "RecordId": "5ca7939e-9570-4dc5-9b0b-b119d9aa467f",
+    "EmployeeId": 104,
+    "PayPeriodStart": "2025-05-01T00:00:00",
+    "PayPeriodEnd": "2025-05-31T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 3200,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 3200,
+    "TotalDeductions": 0,
+    "NetPay": 3200
+  },
+  {
+    "RecordId": "bc9e556c-3975-4e06-a37d-611ddd7edc73",
+    "EmployeeId": 105,
+    "PayPeriodStart": "2025-05-01T00:00:00",
+    "PayPeriodEnd": "2025-05-31T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 4000,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 4000,
+    "TotalDeductions": 0,
+    "NetPay": 4000
+  },
+  {
+    "RecordId": "7b3a535d-f5b2-4a14-9ead-6b785df4ff17",
+    "EmployeeId": 101,
+    "PayPeriodStart": "2025-05-21T00:00:00",
+    "PayPeriodEnd": "2025-05-29T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 9000,
+    "Bonuses": [
+      {
+        "Description": "great job",
+        "Amount": 1000
+      }
+    ],
+    "Deductions": [],
+    "GrossPay": 10000,
+    "TotalDeductions": 0,
+    "NetPay": 10000
+  },
+  {
+    "RecordId": "9f266516-0072-40e2-b45a-96528e98a0e0",
+    "EmployeeId": 109,
+    "PayPeriodStart": "2020-05-05T00:00:00",
+    "PayPeriodEnd": "2025-05-05T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 8000,
+    "Bonuses": [
+      {
+        "Description": "test",
+        "Amount": 10000
+      }
+    ],
+    "Deductions": [
+      {
+        "Description": "200",
+        "Amount": 100
+      }
+    ],
+    "GrossPay": 18000,
+    "TotalDeductions": 100,
+    "NetPay": 17900
+  },
+  {
+    "RecordId": "181d0e66-a83b-47ff-ba7a-4d59c2689584",
+    "EmployeeId": 108,
+    "PayPeriodStart": "2025-04-01T00:00:00",
+    "PayPeriodEnd": "2025-05-01T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 8999,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 8999,
+    "TotalDeductions": 0,
+    "NetPay": 8999
+  },
+  {
+    "RecordId": "a8e70dc0-7c9e-4b5f-b562-614fd59d91ee",
+    "EmployeeId": 101,
+    "PayPeriodStart": "2023-05-01T00:00:00",
+    "PayPeriodEnd": "2023-05-31T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 9000,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 9000,
+    "TotalDeductions": 0,
+    "NetPay": 9000
+  },
+  {
+    "RecordId": "9e3a6f7c-6a52-479b-b505-4520377ebbf6",
+    "EmployeeId": 102,
+    "PayPeriodStart": "2023-05-01T00:00:00",
+    "PayPeriodEnd": "2023-05-31T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 1200,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 1200,
+    "TotalDeductions": 0,
+    "NetPay": 1200
+  },
+  {
+    "RecordId": "41ee2c2d-a543-4e2a-9fc6-9a815a5ff2e3",
+    "EmployeeId": 103,
+    "PayPeriodStart": "2023-05-01T00:00:00",
+    "PayPeriodEnd": "2023-05-31T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 2020,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 2020,
+    "TotalDeductions": 0,
+    "NetPay": 2020
+  },
+  {
+    "RecordId": "f0169f30-3d16-40e9-9efe-29c74c608d79",
+    "EmployeeId": 104,
+    "PayPeriodStart": "2023-05-01T00:00:00",
+    "PayPeriodEnd": "2023-05-31T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 3200,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 3200,
+    "TotalDeductions": 0,
+    "NetPay": 3200
+  },
+  {
+    "RecordId": "eeddeaed-5825-474f-8105-d12baad571c6",
+    "EmployeeId": 105,
+    "PayPeriodStart": "2023-05-01T00:00:00",
+    "PayPeriodEnd": "2023-05-31T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 4000,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 4000,
+    "TotalDeductions": 0,
+    "NetPay": 4000
+  },
+  {
+    "RecordId": "80baf1fd-64fd-4e40-bf47-69a6b505f5a7",
+    "EmployeeId": 106,
+    "PayPeriodStart": "2023-05-01T00:00:00",
+    "PayPeriodEnd": "2023-05-31T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 10000,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 10000,
+    "TotalDeductions": 0,
+    "NetPay": 10000
+  },
+  {
+    "RecordId": "415f67f3-a8ee-42e0-bd0d-9cec3dd0f52c",
+    "EmployeeId": 107,
+    "PayPeriodStart": "2023-05-01T00:00:00",
+    "PayPeriodEnd": "2023-05-31T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 1000,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 1000,
+    "TotalDeductions": 0,
+    "NetPay": 1000
+  },
+  {
+    "RecordId": "8bb1c3a2-dd76-4012-a3b6-20ea92447931",
+    "EmployeeId": 108,
+    "PayPeriodStart": "2023-05-01T00:00:00",
+    "PayPeriodEnd": "2023-05-31T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 8999,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 8999,
+    "TotalDeductions": 0,
+    "NetPay": 8999
+  },
+  {
+    "RecordId": "de26b981-c113-4cff-ab78-4abe09c0f267",
+    "EmployeeId": 109,
+    "PayPeriodStart": "2023-05-01T00:00:00",
+    "PayPeriodEnd": "2023-05-31T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 8000,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 8000,
+    "TotalDeductions": 0,
+    "NetPay": 8000
+  },
+  {
+    "RecordId": "cb9e659d-ef3e-4d0e-8d21-aa85aee89343",
+    "EmployeeId": 110,
+    "PayPeriodStart": "2023-05-01T00:00:00",
+    "PayPeriodEnd": "2023-05-31T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 8000,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 8000,
+    "TotalDeductions": 0,
+    "NetPay": 8000
+  },
+  {
+    "RecordId": "1639870c-e3b7-4a0a-8968-737170a7d178",
+    "EmployeeId": 109,
+    "PayPeriodStart": "2025-01-01T00:00:00",
+    "PayPeriodEnd": "2025-02-01T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 8000,
+    "Bonuses": [],
+    "Deductions": [
+      {
+        "Description": "Year 2025 rate",
+        "Amount": 1600.00
+      }
+    ],
+    "GrossPay": 8000,
+    "TotalDeductions": 1600.00,
+    "NetPay": 6400.00
+  },
+  {
+    "RecordId": "510a50bf-a29e-40b3-be3f-f700068ce104",
+    "EmployeeId": 110,
+    "PayPeriodStart": "2025-01-01T00:00:00",
+    "PayPeriodEnd": "2025-02-01T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 8000,
+    "Bonuses": [],
+    "Deductions": [
+      {
+        "Description": "Year 2025 rate",
+        "Amount": 1600.00
+      }
+    ],
+    "GrossPay": 8000,
+    "TotalDeductions": 1600.00,
+    "NetPay": 6400.00
+  },
+  {
+    "RecordId": "5dcc0c88-50dc-47b2-8019-9f97e9afb121",
+    "EmployeeId": 110,
+    "PayPeriodStart": "2025-03-01T00:00:00",
+    "PayPeriodEnd": "2025-04-01T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 8000,
+    "Bonuses": [],
+    "Deductions": [
+      {
+        "Description": "Year 2025 rate",
+        "Amount": 1600.00
+      }
+    ],
+    "GrossPay": 8000,
+    "TotalDeductions": 1600.00,
+    "NetPay": 6400.00
+  },
+  {
+    "RecordId": "9e27b066-88ce-4a0f-8220-9c7400bf0bc8",
+    "EmployeeId": 101,
+    "PayPeriodStart": "2025-01-01T00:00:00",
+    "PayPeriodEnd": "2025-02-01T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 9000,
+    "Bonuses": [],
+    "Deductions": [],
+    "GrossPay": 9000,
+    "TotalDeductions": 0,
+    "NetPay": 9000
+  },
+  {
+    "RecordId": "dbf41c8b-19fe-4b5c-98cc-423aef956a9a",
+    "EmployeeId": 101,
+    "PayPeriodStart": "2025-02-01T00:00:00",
+    "PayPeriodEnd": "2025-03-01T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 9000,
+    "Bonuses": [],
+    "Deductions": [
+      {
+        "Description": "2025 FY",
+        "Amount": 4500.00
+      }
+    ],
+    "GrossPay": 9000,
+    "TotalDeductions": 4500.00,
+    "NetPay": 4500.00
+  },
+  {
+    "RecordId": "ff6ef3cc-5779-41c9-9402-6d0503bd94ad",
+    "EmployeeId": 101,
+    "PayPeriodStart": "2020-05-01T00:00:00",
+    "PayPeriodEnd": "2020-06-01T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 9000,
+    "Bonuses": [],
+    "Deductions": [
+      {
+        "Description": "2025 FY",
+        "Amount": 4500.00
+      }
+    ],
+    "GrossPay": 9000,
+    "TotalDeductions": 4500.00,
+    "NetPay": 4500.00
+  },
+  {
+    "RecordId": "6ce02f58-7179-4eb0-9456-e33d3d9c69ff",
+    "EmployeeId": 101,
+    "PayPeriodStart": "2021-05-01T00:00:00",
+    "PayPeriodEnd": "2021-06-01T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 9000,
+    "Bonuses": [],
+    "Deductions": [
+      {
+        "Description": "2020 FY",
+        "Amount": 900.00
+      }
+    ],
+    "GrossPay": 9000,
+    "TotalDeductions": 900.00,
+    "NetPay": 8100.00
+  },
+  {
+    "RecordId": "338366cd-e26b-4a91-bd16-a8e78c9fb9e0",
+    "EmployeeId": 101,
+    "PayPeriodStart": "2025-05-01T00:00:00",
+    "PayPeriodEnd": "2025-06-01T00:00:00",
+    "HoursWorked": null,
+    "BaseSalaryForPeriod": 9000,
+    "Bonuses": [],
+    "Deductions": [
+      {
+        "Description": "2020 FY",
+        "Amount": 900.00
+      }
+    ],
+    "GrossPay": 9000,
+    "TotalDeductions": 900.00,
+    "NetPay": 8100.00
+  }
+]

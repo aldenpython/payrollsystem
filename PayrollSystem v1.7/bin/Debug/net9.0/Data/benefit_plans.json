@@ -1,0 +1,42 @@
+[
+  {
+    "PlanId": "00000000-0000-0000-0000-000000000001",
+    "PlanName": "Medical Insurance - Standard Plan",
+    "Description": "Health coverage for employees",
+    "MonthlyContributionEmployee": 100.0,
+    "MonthlyContributionEmployer": 50.0,
+    "IsActive": true
+  },
+  {
+    "PlanId": "00000000-0000-0000-0000-000000000002",
+    "PlanName": "Dental Insurance - Basic Plan",
+    "Description": "Dental care coverage",
+    "MonthlyContributionEmployee": 30.0,
+    "MonthlyContributionEmployer": 10.0,
+    "IsActive": true
+  },
+  {
+    "PlanId": "00000000-0000-0000-0000-000000000003",
+    "PlanName": "Life Insurance - $100,000 Coverage",
+    "Description": "Life insurance policy",
+    "MonthlyContributionEmployee": 20.0,
+    "MonthlyContributionEmployer": 0.0,
+    "IsActive": true
+  },
+  {
+    "PlanId": "00000000-0000-0000-0000-000000000004",
+    "PlanName": "401(k) - 5% Employee Contribution",
+    "Description": "Retirement savings plan",
+    "MonthlyContributionEmployee": 0.0,
+    "MonthlyContributionEmployer": 0.0,
+    "IsActive": true
+  },
+  {
+    "PlanId": "00000000-0000-0000-0000-000000000005",
+    "PlanName": "Childcare Assistance - Monthly Subsidy",
+    "Description": "Monthly childcare subsidy",
+    "MonthlyContributionEmployee": 0.0,
+    "MonthlyContributionEmployer": 100.0,
+    "IsActive": true
+  }
+]

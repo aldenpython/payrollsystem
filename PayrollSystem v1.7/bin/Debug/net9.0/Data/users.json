@@ -1,0 +1,68 @@
+[
+  {
+    "Username": "admin",
+    "PasswordHash": "gvJaWL/FRnEP6jg1FPM19bJMcxVq8gPMo88LgU\u002BGcmE=",
+    "PasswordSalt": "W3VdXhlk2UzCNJ/oq0NDIg==",
+    "Role": "Admin"
+  },
+  {
+    "Username": "Md Shabah Bin Mosharaf",
+    "PasswordHash": "Wbe/lY2C5ZO9eZP17uPxJ33tYrBAxkKyQ2LgTZ3l2NQ=",
+    "PasswordSalt": "Y4xAwyS1JEhg6dn1xaAZdg==",
+    "Role": "HRManager"
+  },
+  {
+    "Username": "SPrakash",
+    "PasswordHash": "uRtkm8ugaePYY66ykrRhgJnwq/lOnziBVxByjx7ZXAM=",
+    "PasswordSalt": "JpcXLNPAn/5f\u002BHFEPKcP8w==",
+    "Role": "HRManager"
+  },
+  {
+    "Username": "Employee1",
+    "PasswordHash": "mw31G3P9YykBIWX1LCE\u002BMQdF5EmgYIZrjWMRDFQhquQ=",
+    "PasswordSalt": "VW6IFL2MCgqRAJ0m6l3TYQ==",
+    "Role": "Employee"
+  },
+  {
+    "Username": "Employee2",
+    "PasswordHash": "SMvPL3qoBQedXAeyZn0mM6hiyZ7INPTY8U1Z1BYcRL4=",
+    "PasswordSalt": "jDYdzlHP7qm5vO7Rod0ofA==",
+    "Role": "Employee"
+  },
+  {
+    "Username": "Employee3",
+    "PasswordHash": "CaCyA2fBul36eWqHi1lOMnuRSTPQP7FI6nVNKQF7Sps=",
+    "PasswordSalt": "EBbMBcIzCtG9ErnRxBJshw==",
+    "Role": "Employee"
+  },
+  {
+    "Username": "Alden",
+    "PasswordHash": "Hlrl9EjtmsZLxIgN7u9naW0zHXcjsIzZ82sYmW41Rkw=",
+    "PasswordSalt": "At9iJgKkj4HGqEyZ3d6ryQ==",
+    "Role": "HRManager"
+  },
+  {
+    "Username": "TOPG",
+    "PasswordHash": "PPsyySZocMA/DbRf4QEjvvJnnDdBIwwKMxDgscFElm4=",
+    "PasswordSalt": "OH17tjXcfcWppdM09iVtvA==",
+    "Role": "Employee"
+  },
+  {
+    "Username": "nah",
+    "PasswordHash": "4h6CPoxQWhXo9MHxq6hAiwWY4tBMWImnPJNw6E2uW3M=",
+    "PasswordSalt": "Rn/TpHoMA7C/FfrI6xIWAg==",
+    "Role": "Employee"
+  },
+  {
+    "Username": "TOPW",
+    "PasswordHash": "U7oeAonnFjEayfVZxuXAn466Tbxy9L2GpaL6gYOi5LI=",
+    "PasswordSalt": "hkvUeOaBFBmkkGD8ggUXVA==",
+    "Role": "Employee"
+  },
+  {
+    "Username": "UMESH",
+    "PasswordHash": "nHt2Po6dftoPTHNowfNSDm2\u002B4x5IikyLrA/3vYuzZYM=",
+    "PasswordSalt": "Zuk687l\u002B48IvpcB7LIVcoQ==",
+    "Role": "Employee"
+  }
+]

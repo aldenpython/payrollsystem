@@ -1,0 +1,62 @@
+[
+  {
+    "RequestId": "3932d9b6-d648-4336-9865-9b400089f583",
+    "EmployeeId": 104,
+    "StartDate": "2025-05-21T00:00:00",
+    "EndDate": "2025-05-22T00:00:00",
+    "Reason": "sick",
+    "Status": "Pending",
+    "DateRequested": "2025-05-23T16:42:07.1612228+10:00",
+    "DateActioned": null,
+    "ActionedByUsername": null,
+    "DurationInDays": 2
+  },
+  {
+    "RequestId": "dd943e3e-b886-4f53-8e7c-a5f143a6ebf9",
+    "EmployeeId": 102,
+    "StartDate": "2025-05-22T00:00:00",
+    "EndDate": "2025-05-24T00:00:00",
+    "Reason": "party",
+    "Status": "Pending",
+    "DateRequested": "2025-05-23T16:42:07.1648596+10:00",
+    "DateActioned": null,
+    "ActionedByUsername": null,
+    "DurationInDays": 3
+  },
+  {
+    "RequestId": "9ea83737-3f43-4096-9d53-d8ae9eb68794",
+    "EmployeeId": 108,
+    "StartDate": "2025-05-22T00:00:00",
+    "EndDate": "2025-05-25T00:00:00",
+    "Reason": "PARTY",
+    "Status": "Approved",
+    "DateRequested": "2025-05-23T16:42:07.1648855+10:00",
+    "DateActioned": "2025-05-22T18:06:06.2540984+10:00",
+    "ActionedByUsername": "Alden",
+    "DurationInDays": 4
+  },
+  {
+    "RequestId": "44b3e73c-703c-4629-9f96-6de9a3018ede",
+    "EmployeeId": 108,
+    "StartDate": "2025-05-27T00:00:00",
+    "EndDate": "2025-05-29T00:00:00",
+    "Reason": "TOPW LEAVE",
+    "Status": "Rejected",
+    "DateRequested": "2025-05-23T16:42:07.1649728+10:00",
+    "DateActioned": "2025-05-22T18:09:39.5515441+10:00",
+    "ActionedByUsername": "Alden",
+    "DurationInDays": 3
+  },
+  {
+    "RequestId": "1a3ad35d-b71f-4a8c-b0cc-89dc554887d4",
+    "EmployeeId": 106,
+    "StartDate": "2025-05-23T00:00:00",
+    "EndDate": "2025-05-25T00:00:00",
+    "Reason": "SICKK",
+    "Status": "Approved",
+    "DateRequested": "2025-05-23T16:42:07.164992+10:00",
+    "DateActioned": "2025-05-23T16:42:27.8378804+10:00",
+    "ActionedByUsername": "Alden",
+    "DurationInDays": 3
+  }
+]

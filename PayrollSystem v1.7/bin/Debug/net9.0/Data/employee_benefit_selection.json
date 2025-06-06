@@ -1,0 +1,98 @@
+[
+  {
+    "SelectionId": "5b5a4a3a-5eab-4009-8b7f-fe1797146796",
+    "EmployeeId": 108,
+    "PlanId": "00000000-0000-0000-0000-000000000001",
+    "EnrollmentDate": "2025-05-24T16:17:56.3390361+10:00",
+    "UnenrollmentDate": "2025-05-24T16:31:35.7186509+10:00",
+    "IsActive": false
+  },
+  {
+    "SelectionId": "04b14028-f0e8-439e-81cb-e85eef35e3b2",
+    "EmployeeId": 108,
+    "PlanId": "00000000-0000-0000-0000-000000000002",
+    "EnrollmentDate": "2025-05-24T16:22:54.049686+10:00",
+    "UnenrollmentDate": "2025-05-24T16:23:05.5812544+10:00",
+    "IsActive": false
+  },
+  {
+    "SelectionId": "66dec230-d30a-453c-82b9-f84c135d53ee",
+    "EmployeeId": 108,
+    "PlanId": "00000000-0000-0000-0000-000000000003",
+    "EnrollmentDate": "2025-05-24T16:31:31.127822+10:00",
+    "UnenrollmentDate": "2025-05-24T16:32:01.3153546+10:00",
+    "IsActive": false
+  },
+  {
+    "SelectionId": "d4815fa3-4f3c-4fef-8235-6f19d430fa83",
+    "EmployeeId": 108,
+    "PlanId": "00000000-0000-0000-0000-000000000005",
+    "EnrollmentDate": "2025-05-24T16:31:39.2619398+10:00",
+    "UnenrollmentDate": null,
+    "IsActive": true
+  },
+  {
+    "SelectionId": "1c5a06ef-2da9-4ec6-8440-d6c7f2d1d6e6",
+    "EmployeeId": 108,
+    "PlanId": "00000000-0000-0000-0000-000000000004",
+    "EnrollmentDate": "2025-05-24T16:31:49.6106336+10:00",
+    "UnenrollmentDate": null,
+    "IsActive": true
+  },
+  {
+    "SelectionId": "55c881a8-181f-47cd-8262-26542a93f849",
+    "EmployeeId": 108,
+    "PlanId": "00000000-0000-0000-0000-000000000002",
+    "EnrollmentDate": "2025-05-24T16:31:54.0866525+10:00",
+    "UnenrollmentDate": null,
+    "IsActive": true
+  },
+  {
+    "SelectionId": "33105521-dc91-47c0-a7d9-48cb328ef20d",
+    "EmployeeId": 108,
+    "PlanId": "00000000-0000-0000-0000-000000000001",
+    "EnrollmentDate": "2025-05-24T16:31:55.7779799+10:00",
+    "UnenrollmentDate": null,
+    "IsActive": true
+  },
+  {
+    "SelectionId": "8b6f3371-8df9-4e45-b84b-a453314ca901",
+    "EmployeeId": 110,
+    "PlanId": "00000000-0000-0000-0000-000000000004",
+    "EnrollmentDate": "2025-05-24T16:34:09.8928083+10:00",
+    "UnenrollmentDate": "2025-05-24T16:34:14.6684439+10:00",
+    "IsActive": false
+  },
+  {
+    "SelectionId": "ed4988c0-8851-4129-ad4e-4d3dcdff53b1",
+    "EmployeeId": 110,
+    "PlanId": "00000000-0000-0000-0000-000000000001",
+    "EnrollmentDate": "2025-05-24T16:34:17.5197896+10:00",
+    "UnenrollmentDate": "2025-05-24T16:34:26.6123703+10:00",
+    "IsActive": false
+  },
+  {
+    "SelectionId": "e32156ce-3cf8-408c-a377-314d46d6bbe2",
+    "EmployeeId": 110,
+    "PlanId": "00000000-0000-0000-0000-000000000002",
+    "EnrollmentDate": "2025-05-24T16:34:24.1799749+10:00",
+    "UnenrollmentDate": null,
+    "IsActive": true
+  },
+  {
+    "SelectionId": "4e50c9a0-1c71-4275-aad8-0402e9283b3c",
+    "EmployeeId": 106,
+    "PlanId": "00000000-0000-0000-0000-000000000001",
+    "EnrollmentDate": "2025-05-24T16:39:20.3075071+10:00",
+    "UnenrollmentDate": "2025-05-24T16:39:23.3574655+10:00",
+    "IsActive": false
+  },
+  {
+    "SelectionId": "1124ec3f-dabe-4070-9dfa-5d6b86c2f0e0",
+    "EmployeeId": 106,
+    "PlanId": "00000000-0000-0000-0000-000000000002",
+    "EnrollmentDate": "2025-05-24T16:39:25.8941504+10:00",
+    "UnenrollmentDate": null,
+    "IsActive": true
+  }
+]

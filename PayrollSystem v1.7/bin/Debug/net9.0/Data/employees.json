@@ -1,0 +1,230 @@
+[
+  {
+    "EmployeeId": 101,
+    "Username": "Employee7",
+    "FullName": "John wick",
+    "Position": "Head of Product",
+    "CurrentDepartment": {
+      "DepartmentId": 2,
+      "Name": "Technology"
+    },
+    "Salary": 9000,
+    "DateOfJoining": "2025-01-20T00:00:00",
+    "JobHistory": [
+      {
+        "Position": "PA",
+        "DepartmentName": "Human Resources",
+        "StartDate": "2025-01-20T00:00:00",
+        "EndDate": "2025-05-21T00:00:00"
+      },
+      {
+        "Position": "Head of Marketing",
+        "DepartmentName": "Marketing",
+        "StartDate": "2025-05-22T00:00:00",
+        "EndDate": "2025-06-30T00:00:00"
+      },
+      {
+        "Position": "Head of Product",
+        "DepartmentName": "Technology",
+        "StartDate": "2025-07-01T00:00:00",
+        "EndDate": null
+      }
+    ],
+    "LeaveBalance": 27
+  },
+  {
+    "EmployeeId": 102,
+    "Username": "Employee1",
+    "FullName": "Employee1",
+    "Position": "Team Leader",
+    "CurrentDepartment": {
+      "DepartmentId": 1,
+      "Name": "Human Resources"
+    },
+    "Salary": 1200,
+    "DateOfJoining": "2025-04-20T00:00:00",
+    "JobHistory": [
+      {
+        "Position": "Team Leader",
+        "DepartmentName": "Human Resources",
+        "StartDate": "2025-04-20T00:00:00",
+        "EndDate": null
+      }
+    ],
+    "LeaveBalance": 25
+  },
+  {
+    "EmployeeId": 103,
+    "Username": "Employee2",
+    "FullName": "Employee2",
+    "Position": "Sales",
+    "CurrentDepartment": {
+      "DepartmentId": 1,
+      "Name": "Human Resources"
+    },
+    "Salary": 2020,
+    "DateOfJoining": "2025-01-25T00:00:00",
+    "JobHistory": [
+      {
+        "Position": "Assistant",
+        "DepartmentName": "Technology",
+        "StartDate": "2025-01-25T00:00:00",
+        "EndDate": "2025-05-20T00:00:00"
+      },
+      {
+        "Position": "Sales",
+        "DepartmentName": "Human Resources",
+        "StartDate": "2025-05-21T00:00:00",
+        "EndDate": null
+      }
+    ],
+    "LeaveBalance": 18
+  },
+  {
+    "EmployeeId": 104,
+    "Username": "Employee3",
+    "FullName": "Employee3",
+    "Position": "Sales Assist",
+    "CurrentDepartment": {
+      "DepartmentId": 3,
+      "Name": "Finance"
+    },
+    "Salary": 3200,
+    "DateOfJoining": "2025-02-10T00:00:00",
+    "JobHistory": [
+      {
+        "Position": "Sales Assist",
+        "DepartmentName": "Finance",
+        "StartDate": "2025-02-10T00:00:00",
+        "EndDate": null
+      }
+    ],
+    "LeaveBalance": 32
+  },
+  {
+    "EmployeeId": 105,
+    "Username": "Employee4",
+    "FullName": "Employee4",
+    "Position": "Manager",
+    "CurrentDepartment": {
+      "DepartmentId": 4,
+      "Name": "Marketing"
+    },
+    "Salary": 4000,
+    "DateOfJoining": "2025-02-27T00:00:00",
+    "JobHistory": [
+      {
+        "Position": "Manager",
+        "DepartmentName": "Marketing",
+        "StartDate": "2025-02-27T00:00:00",
+        "EndDate": null
+      }
+    ],
+    "LeaveBalance": 25
+  },
+  {
+    "EmployeeId": 106,
+    "Username": "TOPG",
+    "FullName": "TOPG",
+    "Position": "Head of Marketing",
+    "CurrentDepartment": {
+      "DepartmentId": 4,
+      "Name": "Marketing"
+    },
+    "Salary": 10000,
+    "DateOfJoining": "2025-05-21T00:00:00",
+    "JobHistory": [
+      {
+        "Position": "Head of Marketing",
+        "DepartmentName": "Marketing",
+        "StartDate": "2025-05-21T00:00:00",
+        "EndDate": null
+      }
+    ],
+    "LeaveBalance": 85
+  },
+  {
+    "EmployeeId": 107,
+    "Username": "nah",
+    "FullName": "nah",
+    "Position": "nah",
+    "CurrentDepartment": {
+      "DepartmentId": 1,
+      "Name": "Human Resources"
+    },
+    "Salary": 1000,
+    "DateOfJoining": "2025-05-21T00:00:00",
+    "JobHistory": [
+      {
+        "Position": "nah",
+        "DepartmentName": "Human Resources",
+        "StartDate": "2025-05-21T00:00:00",
+        "EndDate": null
+      }
+    ],
+    "LeaveBalance": 88
+  },
+  {
+    "EmployeeId": 108,
+    "Username": "TOPW",
+    "FullName": "TOPW",
+    "Position": "Marketing",
+    "CurrentDepartment": {
+      "DepartmentId": 4,
+      "Name": "Marketing"
+    },
+    "Salary": 8999,
+    "DateOfJoining": "2025-05-21T00:00:00",
+    "JobHistory": [
+      {
+        "Position": "Marketing",
+        "DepartmentName": "Marketing",
+        "StartDate": "2025-05-21T00:00:00",
+        "EndDate": null
+      }
+    ],
+    "LeaveBalance": 16
+  },
+  {
+    "EmployeeId": 109,
+    "Username": "2025-05-25",
+    "FullName": "UMESH",
+    "Position": "Head of Tech",
+    "CurrentDepartment": {
+      "DepartmentId": 2,
+      "Name": "Technology"
+    },
+    "Salary": 8000,
+    "DateOfJoining": "2025-05-22T00:00:00",
+    "JobHistory": [
+      {
+        "Position": "Head of Tech",
+        "DepartmentName": "Technology",
+        "StartDate": "2025-05-22T00:00:00",
+        "EndDate": null
+      }
+    ],
+    "LeaveBalance": 44
+  },
+  {
+    "EmployeeId": 110,
+    "Username": "UMESH",
+    "FullName": "UMESH",
+    "Position": "Head of Tech",
+    "CurrentDepartment": {
+      "DepartmentId": 2,
+      "Name": "Technology"
+    },
+    "Salary": 8000,
+    "DateOfJoining": "2025-05-22T00:00:00",
+    "JobHistory": [
+      {
+        "Position": "Head of Tech",
+        "DepartmentName": "Technology",
+        "StartDate": "2025-05-22T00:00:00",
+        "EndDate": null
+      }
+    ],
+    "LeaveBalance": 44
+  }
+]
